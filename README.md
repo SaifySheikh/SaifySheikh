@@ -30,3 +30,27 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifysheikh&show_icons=true&locale=en" alt="saifysheikh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifysheikh&" alt="saifysheikh" /></p>
+
+
+
+#### Featured
+
+<p align="center">
+<a href="https://github.com/SaifySheikh/Sign-language-to-Text-Conversion">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SaifySheikh&repo=Sign-language-to-Text-Conversion&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/SaifySheikh/Patshaala">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SaifySheikh&repo=Patshaala&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/SaifySheikh/Noteable-app">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SaifySheikh&repo=Noteable-app&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/SaifySheikh/EMS_New_Repo_with_Email">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SaifySheikh&repo=EMS_New_Repo_with_Email&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
