@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
-- 💬 Ask me about **DSA, Python and Web Development**
+- 💬 Ask me about **DSA, Competitive Programming and Web Development**
 
 - 📫 How to reach me **saifyssk04@gmail.com**
 
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/SaifySheikh/Noteable-app">
+<a href="https://github.com/SaifySheikh/SaifySheikh-Portfolio">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SaifySheikh&repo=Noteable-app&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
